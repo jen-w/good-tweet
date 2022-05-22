@@ -1,0 +1,14 @@
+{
+  "name": "good-tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "priorityqueuejs": "^2.0.0"
+  }
+}
